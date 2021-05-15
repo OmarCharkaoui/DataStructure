@@ -1,0 +1,6 @@
+C:\Users\omar\source\repos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\AlgorithmsAndDataStructures.exe.config
+C:\Users\omar\source\repos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\AlgorithmsAndDataStructures.exe
+C:\Users\omar\source\repos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\AlgorithmsAndDataStructures.pdb
+C:\Users\omar\source\repos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\AlgorithmsAndDataStructures.exe
+C:\Users\omar\source\repos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\AlgorithmsAndDataStructures.pdb
+C:\Users\omar\source\repos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\AlgorithmsAndDataStructures.csprojAssemblyReference.cache

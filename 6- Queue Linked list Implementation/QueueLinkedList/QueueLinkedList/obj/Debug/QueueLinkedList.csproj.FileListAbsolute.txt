@@ -1,0 +1,6 @@
+C:\Users\omar\source\repos\QueueLinkedList\QueueLinkedList\bin\Debug\QueueLinkedList.exe.config
+C:\Users\omar\source\repos\QueueLinkedList\QueueLinkedList\bin\Debug\QueueLinkedList.exe
+C:\Users\omar\source\repos\QueueLinkedList\QueueLinkedList\bin\Debug\QueueLinkedList.pdb
+C:\Users\omar\source\repos\QueueLinkedList\QueueLinkedList\obj\Debug\QueueLinkedList.csprojAssemblyReference.cache
+C:\Users\omar\source\repos\QueueLinkedList\QueueLinkedList\obj\Debug\QueueLinkedList.exe
+C:\Users\omar\source\repos\QueueLinkedList\QueueLinkedList\obj\Debug\QueueLinkedList.pdb

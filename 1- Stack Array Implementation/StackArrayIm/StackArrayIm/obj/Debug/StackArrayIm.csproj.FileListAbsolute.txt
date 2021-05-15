@@ -1,0 +1,6 @@
+C:\Users\omar\source\repos\StackArrayIm\StackArrayIm\bin\Debug\StackArrayIm.exe.config
+C:\Users\omar\source\repos\StackArrayIm\StackArrayIm\bin\Debug\StackArrayIm.exe
+C:\Users\omar\source\repos\StackArrayIm\StackArrayIm\bin\Debug\StackArrayIm.pdb
+C:\Users\omar\source\repos\StackArrayIm\StackArrayIm\obj\Debug\StackArrayIm.csprojAssemblyReference.cache
+C:\Users\omar\source\repos\StackArrayIm\StackArrayIm\obj\Debug\StackArrayIm.exe
+C:\Users\omar\source\repos\StackArrayIm\StackArrayIm\obj\Debug\StackArrayIm.pdb

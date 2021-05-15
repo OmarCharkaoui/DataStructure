@@ -1,0 +1,6 @@
+C:\Users\omar\source\repos\QueueArrIm\QueueArrIm\bin\Debug\QueueArrIm.exe.config
+C:\Users\omar\source\repos\QueueArrIm\QueueArrIm\bin\Debug\QueueArrIm.exe
+C:\Users\omar\source\repos\QueueArrIm\QueueArrIm\bin\Debug\QueueArrIm.pdb
+C:\Users\omar\source\repos\QueueArrIm\QueueArrIm\obj\Debug\QueueArrIm.csprojAssemblyReference.cache
+C:\Users\omar\source\repos\QueueArrIm\QueueArrIm\obj\Debug\QueueArrIm.exe
+C:\Users\omar\source\repos\QueueArrIm\QueueArrIm\obj\Debug\QueueArrIm.pdb
